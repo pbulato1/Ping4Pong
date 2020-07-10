@@ -1,7 +1,7 @@
 Ping4Pong                                                                   
 ----------                                                                              
                                            Project completed during June and July 2019.
-                                     Uploaded on December 22, re-uploaded on January 12, 2020.
+                                     Uploaded on December 22 2020, re-uploaded on July 10, 2020.
 
 This game was built with the help of the book: [The Beginner's Guide to Android Game Development, by James S. Cho](https://www.amazon.com/Beginners-Guide-Android-Game-Development/dp/1908689269).
 The game that the book teaches you how to build looks as follows: 
