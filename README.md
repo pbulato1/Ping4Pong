@@ -4,12 +4,12 @@ Ping4Pong
                                      Uploaded on December 22 2019, re-uploaded on July 10, 2020.
 
 This game was built with the help of the book: [The Beginner's Guide to Android Game Development, by James S. Cho](https://www.amazon.com/Beginners-Guide-Android-Game-Development/dp/1908689269).
-The game that the book teaches you how to build looks as follows: 
+The game that the book explains how to build looks as follows: 
 
 **Book Version:**
 
-A simple home screen shows up once you start the application, and by clicking anywhere on that screen, the game starts.
-The game is a simple, old-fashioned 2d ping pong simulation, but you are controlling both of the paddles, with the controls
+A simple home screen shows up once the application is opened, and by clicking anywhere on that screen, the game starts.
+The game is a simple, old-fashioned 2d ping pong simulation, but the user controls both of the paddles, with the controls
 being inverted. Namely, when controlling the paddle on the left to go upwards, the paddle on the right goes downwards at the same time.
 There is also a simple point counter at the top of the screen. Overall, even though I have learnt a lot from the book, I found this particular game to be lacking depth. That is why I have decided to add my own features/create my own version of the game.
 
@@ -17,7 +17,7 @@ There is also a simple point counter at the top of the screen. Overall, even tho
 
 **Menu:**
 
-I have added a menu screen that has 4 options:
+I have added a menu screen containing 4 options:
 
 1. Start
 - Once you press play, you are presented with three difficulty levels: Easy, Medium, and Hard. Even though the rules of the game are 
@@ -41,7 +41,7 @@ computer - controlled paddles. All 4 players begin with 5 lives, and if a ball g
 
 __Power-Ups:__
 
-Another feature that I have added are the power-ups. The idea behind this is that it would make the game more unpredictable and fun at the same time. Basically, you would have more to focus on rather than simply worrying about deflecting the ball away from your "goal". Every five seconds, a randomly selected power-up would appear, and once a player collects it, they will temporarily activate that particular power-up. Also, note that a player can only have one power-up active at a time. I came up with five different kinds of power-ups, as follows:
+Another feature that I have added are the power-ups. The idea behind this is that it would make the game more unpredictable and fun at the same time. Basically, you would have more to focus on rather than simply worrying about deflecting the ball away from your "goal". Every five seconds, a randomly selected power-up would appear, and once the user collects it, they will temporarily activate that particular power-up. Also, note that a player can only have one power-up active at a time. I came up with five different kinds of power-ups, as follows:
 
 1. Life : Gives you an extra life.
 2. Grow : Increases the size of your paddle.
