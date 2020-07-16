@@ -66,7 +66,7 @@ left - return
 
 M - return to the home page
 
-**In - Game:**
+**Gameplay:**
 
 up - move the paddle upwards
 
