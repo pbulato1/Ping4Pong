@@ -81,4 +81,4 @@ M - return to the Main Menu
 -----------------------------
 Petar Bulatovic
 
-Link to the executable(.jar) file: [Link]( https://mega.nz/#!jOY0BShD!6ZJUpHYKtY-GES9QTIzb_VXVzyv5YByQkpwKzc0xCQw)
+Link to the executable(.jar) file: [Link](https://mega.nz/file/vH5xkYyC#FNq3XpqVFwclK4lfoaAvTpsuJNCJ2Hc2RNGwh_UXDS0)
