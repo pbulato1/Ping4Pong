@@ -81,6 +81,7 @@ M - return to the Main Menu
 -----------------------------
 Petar Bulatovic
 
-Link to the runnable(.jar) file: [Link](https://mega.nz/file/vH5xkYyC#FNq3XpqVFwclK4lfoaAvTpsuJNCJ2Hc2RNGwh_UXDS0)
+[Video Demo](https://www.youtube.com/watch?v=VwLrV693hHU&t=8s)
+Download link: [Link](https://mega.nz/file/vH5xkYyC#FNq3XpqVFwclK4lfoaAvTpsuJNCJ2Hc2RNGwh_UXDS0)
 
 Note : Requires Java to run.
