@@ -39,6 +39,8 @@ and one on the right, both being controlled by the user. I decided to make the o
 add three AI paddles, one on each side of the screen(top,right,bottom). In other words, the user would compete against three 
 computer - controlled paddles. All 4 players begin with 5 lives, and if a ball gets past you (you concede a goal), you lose a life. The last player standing wins.
 
+![](Ping4pong.gif)
+
 __Power-Ups:__
 
 Another feature that I have added are the power-ups. The idea behind this is that it would make the game more unpredictable and fun at the same time. Basically, you would have more to focus on rather than simply worrying about deflecting the ball away from your "goal". Every five seconds, a randomly selected power-up would appear, and once the user collects it, they will temporarily activate that particular power-up. Also, note that a player can only have one power-up active at a time. I came up with five different kinds of power-ups, as follows:
