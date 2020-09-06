@@ -83,7 +83,7 @@ M - return to the Main Menu
 -----------------------------
 Petar Bulatovic
 
-[Video Demo](https://www.youtube.com/watch?v=VwLrV693hHU&t=8s)</br>
+[Video Demo](https://youtu.be/VwLrV693hHU)</br>
 Download link: [Link](https://mega.nz/file/vH5xkYyC#FNq3XpqVFwclK4lfoaAvTpsuJNCJ2Hc2RNGwh_UXDS0)
 
 Note : Requires Java to run.
