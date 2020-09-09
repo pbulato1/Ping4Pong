@@ -43,7 +43,7 @@ computer - controlled paddles. All 4 players begin with 5 lives, and if a ball g
 
 __Power-Ups:__
 
-Another feature that I have added are the power-ups. The idea behind this is that it would make the game more unpredictable and fun at the same time. Basically, you would have more to focus on rather than simply worrying about deflecting the ball away from your "goal". Every five seconds, a randomly selected power-up would appear, and once the user collects it, they will temporarily activate that particular power-up. Also, note that a player can only have one power-up active at a time. I came up with five different kinds of power-ups, as follows:
+Another feature that I implemented are the power-ups. The idea behind this is that it would make the game more unpredictable and fun at the same time. Basically, you would have more to focus on rather than simply worrying about deflecting the ball away from your "goal". Every five seconds, a randomly selected power-up would appear, and once the user collects it, they will temporarily activate that particular power-up. Also, note that a player can only have one power-up active at a time. I came up with five different kinds of power-ups, as follows:
 
 1. Life : Gives you an extra life.
 2. Grow : Increases the size of your paddle.
