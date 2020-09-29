@@ -36,7 +36,7 @@ simple, the game itself is not easy to master, so I thought that adding several 
 
 So, as mentioned above, the initial version of the game featured only 2 paddles, one on the left side of the screen,  
 and one on the right, both being controlled by the user. I decided to make the one on the left the user's paddle, and 
-add three AI paddles, one on each side of the screen(top,right,bottom). In other words, the user would compete against three 
+add three AI paddles, one on each side of the screen(top,right,bottom). In other words, the user competes against three 
 computer - controlled paddles. All 4 players begin with 5 lives, and if a ball gets past you (you concede a goal), you lose a life. The last player standing wins.
 
 ![](Ping4pong.gif)
