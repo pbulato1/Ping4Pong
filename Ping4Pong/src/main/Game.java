@@ -12,6 +12,8 @@ import state.LoadState;
 import state.PlayState;
 import state.State;
 //test
+
+//testing
 @SuppressWarnings("serial")
 public class Game extends JPanel implements Runnable {
 	private int gameWidth;
