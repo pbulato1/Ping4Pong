@@ -13,7 +13,7 @@ import state.PlayState;
 import state.State;
 //test
 
-//testing
+//testinggg
 @SuppressWarnings("serial")
 public class Game extends JPanel implements Runnable {
 	private int gameWidth;
